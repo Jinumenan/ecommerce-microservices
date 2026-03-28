@@ -64,7 +64,6 @@ E-Commerce-System/
 ├── order-service/
 ├── inventory-service/
 └── review-service/
-
 ---
 
 ## ⚙️ Technologies Used
